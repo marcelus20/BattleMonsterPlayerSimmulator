@@ -24,4 +24,6 @@ try{
 }
 
 
+console.log("Meu primo é massa");
+
 
